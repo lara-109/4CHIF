@@ -1,0 +1,14 @@
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.exe.config
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.exe
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.pdb
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.csproj.AssemblyReference.cache
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.csproj.CoreCompileInputs.cache
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.exe
+C:\Users\laraw\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.pdb
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.exe.config
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.exe
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\bin\Debug\MultithreadingCounter.pdb
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.exe
+C:\Users\Lenovo\source\repos\MultithreadingCounter\MultithreadingCounter\obj\Debug\MultithreadingCounter.pdb

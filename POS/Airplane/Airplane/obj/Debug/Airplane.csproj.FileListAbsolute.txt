@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Airplane\Airplane\bin\Debug\Airplane.exe.config
+C:\Users\Lenovo\source\repos\Airplane\Airplane\bin\Debug\Airplane.exe
+C:\Users\Lenovo\source\repos\Airplane\Airplane\bin\Debug\Airplane.pdb
+C:\Users\Lenovo\source\repos\Airplane\Airplane\obj\Debug\Airplane.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Airplane\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Airplane\Airplane\obj\Debug\Airplane.exe
+C:\Users\Lenovo\source\repos\Airplane\Airplane\obj\Debug\Airplane.pdb

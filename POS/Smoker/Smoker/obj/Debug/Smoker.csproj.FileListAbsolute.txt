@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Smoker\Smoker\bin\Debug\Smoker.exe.config
+C:\Users\Lenovo\source\repos\Smoker\Smoker\bin\Debug\Smoker.exe
+C:\Users\Lenovo\source\repos\Smoker\Smoker\bin\Debug\Smoker.pdb
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.g.resources
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.exe
+C:\Users\Lenovo\source\repos\Smoker\Smoker\obj\Debug\Smoker.pdb

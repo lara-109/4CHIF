@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.exe
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.deps.json
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.dll
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\bin\Debug\netcoreapp3.1\ThreadedPrimeCalculator.pdb
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.dll
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.pdb
+C:\Users\Lenovo\source\repos\ThreadedPrimeCalculator\ThreadedPrimeCalculator\obj\Debug\netcoreapp3.1\ThreadedPrimeCalculator.genruntimeconfig.cache

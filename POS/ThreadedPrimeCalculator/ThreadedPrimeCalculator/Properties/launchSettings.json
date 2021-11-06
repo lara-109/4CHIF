@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ThreadedPrimeCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "4 10000"
+    }
+  }
+}

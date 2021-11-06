@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\bin\Debug\Roller_Coaster.exe.config
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\bin\Debug\Roller_Coaster.exe
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\bin\Debug\Roller_Coaster.pdb
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.g.resources
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.exe
+C:\Users\Lenovo\source\repos\Roller_Coaster\Roller_Coaster\obj\Debug\Roller_Coaster.pdb

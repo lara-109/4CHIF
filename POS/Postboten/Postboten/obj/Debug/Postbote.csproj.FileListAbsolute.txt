@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Postboten\Postboten\bin\Debug\Postboten.exe.config
+C:\Users\Lenovo\source\repos\Postboten\Postboten\bin\Debug\Postboten.exe
+C:\Users\Lenovo\source\repos\Postboten\Postboten\bin\Debug\Postboten.pdb
+C:\Users\Lenovo\source\repos\Postboten\Postboten\obj\Debug\Postbote.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Postboten\Postboten\obj\Debug\Postbote.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Postboten\Postboten\obj\Debug\Postboten.exe
+C:\Users\Lenovo\source\repos\Postboten\Postboten\obj\Debug\Postboten.pdb

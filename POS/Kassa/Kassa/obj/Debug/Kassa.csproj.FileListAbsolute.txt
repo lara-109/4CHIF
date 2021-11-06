@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Kassa\Kassa\bin\Debug\Kassa.exe.config
+C:\Users\Lenovo\source\repos\Kassa\Kassa\bin\Debug\Kassa.exe
+C:\Users\Lenovo\source\repos\Kassa\Kassa\bin\Debug\Kassa.pdb
+C:\Users\Lenovo\source\repos\Kassa\Kassa\obj\Debug\Kassa.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Kassa\Kassa\obj\Debug\Kassa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kassa\Kassa\obj\Debug\Kassa.exe
+C:\Users\Lenovo\source\repos\Kassa\Kassa\obj\Debug\Kassa.pdb

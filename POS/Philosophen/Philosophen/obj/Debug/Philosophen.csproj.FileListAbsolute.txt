@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\bin\Debug\Philosophen.exe.config
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\bin\Debug\Philosophen.exe
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\bin\Debug\Philosophen.pdb
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.g.resources
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.exe
+C:\Users\Lenovo\source\repos\Philosophen\Philosophen\obj\Debug\Philosophen.pdb
