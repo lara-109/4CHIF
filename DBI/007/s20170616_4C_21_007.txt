@@ -1,0 +1,60 @@
+Winkler Lara
+23.01.2022 
+Aufgabe 7 Video Notes
+
+s20170616
+
+Video 1
+Transactions
+
+not a specifically relational topic
+original research was in relational context
+Original research from Eswaran, Gray, Lorie, Traiger
+programm execution part 
+"logical unit of work"
+begin - BEGIN TRANSACTION
+end - COMMIT(successful), ROLLBACK(unsuccessful)
+database updates must be in transactions
+
+COMMIT - commits updates and terminates
+ROLLBACK - rolls back to last begin transaction and terminates
+
+system automatically issue an implicit rollback
+recovery log in persistent storage
+"Write ahead log rule" log writes before database writes
+
+commit force log records out
+rollback uses log records to recover
+ 
+ACID properties
+A tomicity(work)   - all or nothing
+C onsistency(integrity) - transform consistent state in another consistent state
+I solation(concurrency)   - updates are concealed till given commits
+D urability(recovery)  - after commits updates survive even with subsequent system crash
+
+
+Video 2
+
+constraint checking done at end of transaction
+consistency logically incorrect
+requires all constaint checking immediate
+could lead to incorrect end result
+example suitable controle "locking"
+need to lock other transactions out when working with sharable objects
+
+Two typically kinds - S lock(shared)(mutually compatible), X lock(exclusive)(not compatible)
+retrieval - request for S lock
+update - request for X lock
+If request not granted transaction has to wait
+commit rollback release all locks
+
+SQL has no explicit reliance on locking
+
+
+
+Vocabulary
+
+tangential - something irrelevant
+terminates - to end something
+concurrency - ability to execute more than one tasks
+integrity - being honest 
