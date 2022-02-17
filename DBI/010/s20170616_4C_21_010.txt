@@ -1,0 +1,34 @@
+--Winkler Lara
+--Aufgabe 10
+
+--Übung 8
+--s20170616
+update DiskArray
+	set Disk2 = null
+;
+go
+
+update DiskArray
+	set Disk2 = Disk1^Disk3^PartiyDisk
+;
+go
+
+update DiskArray
+	set Disk3 = null
+;
+go
+
+update DiskArray
+	set Disk3 = Disk1^Disk2^PartiyDisk
+;
+go
+
+update DiskArray
+	set PartiyDisk = null
+;
+go
+
+update DiskArray
+	set PartiyDisk = Disk1^Disk2^Disk3
+;
+go
