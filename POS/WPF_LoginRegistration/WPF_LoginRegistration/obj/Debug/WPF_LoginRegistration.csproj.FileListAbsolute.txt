@@ -1,0 +1,12 @@
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\bin\Debug\WPF_LoginRegistration.dll
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\bin\Debug\WPF_LoginRegistration.pdb
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration_MarkupCompile.cache
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration_MarkupCompile.lref
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\Themes\Generic.baml
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.g.resources
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.Properties.Resources.resources
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.csproj.GenerateResource.cache
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.csproj.CoreCompileInputs.cache
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.dll
+C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\WPF_LoginRegistration\WPF_LoginRegistration\obj\Debug\WPF_LoginRegistration.pdb

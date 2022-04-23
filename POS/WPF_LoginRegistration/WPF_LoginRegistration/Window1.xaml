@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <Grid x:Name="Login" Visibility="Collapsed">
+        <Grid x:Name="Login" Visibility="Visible">
             <Label Content="E-Mail" HorizontalAlignment="Left" Margin="208,177,0,0" VerticalAlignment="Top"/>
             <Label Content="Password" HorizontalAlignment="Left" Margin="208,208,0,0" VerticalAlignment="Top"/>
             <TextBox HorizontalAlignment="Left" Height="23" Margin="323,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
@@ -34,7 +34,7 @@
                 </Button.Style>
             </Button>
         </Grid>
-        <Grid x:Name="Registration"  Visibility="Visible">
+        <Grid x:Name="Registration"  Visibility="Collapsed">
             <Button Margin="619,23,100.333,364.667" x:Name="PART_LOGIN" Content="Login" Cursor="Hand">
                 <Button.Template>
                     <ControlTemplate TargetType="Button">

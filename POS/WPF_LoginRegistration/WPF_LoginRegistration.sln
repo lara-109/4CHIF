@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_LoginRegistration", "WPF_LoginRegistration\WPF_LoginRegistration.csproj", "{AAA51983-0088-4BF1-99DA-47CA27B64D10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_LogReg", "WPF_LogReg\WPF_LogReg.csproj", "{38224AB2-3C13-4307-89FC-7EC056C687E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AAA51983-0088-4BF1-99DA-47CA27B64D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAA51983-0088-4BF1-99DA-47CA27B64D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAA51983-0088-4BF1-99DA-47CA27B64D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38224AB2-3C13-4307-89FC-7EC056C687E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38224AB2-3C13-4307-89FC-7EC056C687E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38224AB2-3C13-4307-89FC-7EC056C687E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38224AB2-3C13-4307-89FC-7EC056C687E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

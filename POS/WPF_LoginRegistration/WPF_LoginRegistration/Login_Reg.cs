@@ -45,11 +45,11 @@ namespace WPF_LoginRegistration
     ///     <MyNamespace:CustomControl1/>
     ///
     /// </summary>
-    public class CustomControl1 : Control
+    public class Login_Reg : Control
     {
-        static CustomControl1()
+        static Login_Reg()
         {
-            DefaultStyleKeyProperty.OverrideMetadata(typeof(CustomControl1), new FrameworkPropertyMetadata(typeof(CustomControl1)));
+            DefaultStyleKeyProperty.OverrideMetadata(typeof(Login_Reg), new FrameworkPropertyMetadata(typeof(Login_Reg)));
         }
 
         public override void OnApplyTemplate()
