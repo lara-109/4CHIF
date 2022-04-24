@@ -89,6 +89,7 @@ namespace WpfEinkaufsliste
             if (string.IsNullOrEmpty(selectedCategory) || string.IsNullOrEmpty(selectedProduct))
             {
                 MessageBox.Show("Bitte wählen Sie im Dropdown eine Kategorie und ein Produkt aus.");
+
             }
 
             this.listBox.Items.Add(new Product(selectedProduct, new Category(selectedCategory)));
@@ -115,6 +116,55 @@ namespace WpfEinkaufsliste
         }
 
         private void delete_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void CommandBinding_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            MessageBox.Show("Funktioniert nicht");
+        }
+
+        private void CommandBinding_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            var selectedCategory = (string)this.ComboBox1.SelectedItem;
+            var selectedProduct = (string)this.ComboBox2.SelectedItem;
+
+            if (string.IsNullOrEmpty(selectedCategory) || string.IsNullOrEmpty(selectedProduct))
+            {
+                e.CanExecute = false;
+                return;
+            }
+            e.CanExecute = true;
+        }
+
+        private void AddCommand(object sender, ExecutedRoutedEventArgs e)
+        {
+            var selectedCategory = (string)this.ComboBox1.SelectedItem;
+            var selectedProduct = (string)this.ComboBox2.SelectedItem;
+
+            this.listBox.Items.Add(new Product(selectedProduct, new Category(selectedCategory)));
+        }
+
+        private void Can_AddCommand(object sender, CanExecuteRoutedEventArgs e)
+        {
+            var selectedCategory = (string)this.ComboBox1.SelectedItem;
+            var selectedProduct = (string)this.ComboBox2.SelectedItem;
+
+            if (string.IsNullOrEmpty(selectedCategory) || string.IsNullOrEmpty(selectedProduct))
+            {
+                e.CanExecute = false;
+                return;
+            }
+            e.CanExecute = true;
+        }
+
+        private void CommandBinding_Executed_1(object sender, ExecutedRoutedEventArgs e)
+        {
+
+        }
+
+        private void CommandBinding_CanExecute_1(object sender, CanExecuteRoutedEventArgs e)
         {
 
         }

@@ -6,6 +6,9 @@
         xmlns:local="clr-namespace:WpfEinkaufsliste"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" Executed="AddCommand" CanExecute="Can_AddCommand"/>
+    </Window.CommandBindings>
     <Grid>
         <StackPanel Orientation="Horizontal" Margin="20,50,0,330">
             <ComboBox x:Name="ComboBox1" Width="188" Panel.ZIndex="99" VerticalAlignment="Center" SelectionChanged="ComboBox_SelectionChanged_1"/>
@@ -13,8 +16,8 @@
         </StackPanel>
         <Button x:Name="save" Click="save_Click" Content="Speichern" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="515,331,0,0"/>
         <Button x:Name="print" Click="print_Click" Content="Drucken" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="374,331,0,0"/>
-        <Button x:Name="delete" Click="delete_Click" Content="Löschen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="230,331,0,0"/>
-        <Button x:Name="add" Click="add_Click" Content="Neu Hinzufügen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Margin="44,331,0,0"/>
+        <Button x:Name="delete" Content="Löschen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="230,331,0,0"/>
+        <Button x:Name="add" Command="ApplicationCommands.New" Content="Neu Hinzufügen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Margin="44,331,0,0"/>
         <Button x:Name="load" Click="load_Click" Content="Laden" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="674,331,0,0"/>
         <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="240" VerticalAlignment="Top" Width="234" Margin="515,51,0,0">
             <ListBox.ItemTemplate>

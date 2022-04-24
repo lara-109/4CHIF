@@ -1,0 +1,15 @@
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\bin\Debug\XMLLernen.exe.config
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\bin\Debug\XMLLernen.exe
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\bin\Debug\XMLLernen.pdb
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.csproj.AssemblyReference.cache
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\MainWindow.g.cs
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\App.g.cs
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen_MarkupCompile.cache
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen_MarkupCompile.lref
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\MainWindow.baml
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.g.resources
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.Properties.Resources.resources
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.csproj.GenerateResource.cache
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.csproj.CoreCompileInputs.cache
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.exe
+C:\Users\laraw\source\repos\XMLLernen\XMLLernen\obj\Debug\XMLLernen.pdb
