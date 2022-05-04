@@ -1,0 +1,51 @@
+Notes:
+
+AES is today in pretty much everything
+An Example Ceasar Cipher
+An algorithm can turn plain text into Ciphertext
+Ceasar Cipher, Enigma and AES are all symmetric encryption
+Cipher existed long before Computers
+Cryptography -> "secret writing"
+Cryptograthy techniques use sender and recipient
+Cryptograthy was mechanized by the 1900s most famous is the german enigma
+Defenes in death uses varying security mechanisms to frustrate attackers
+Diffie-Hellman, a one-way function, uses modular exponentiation to calculate a shared key
+Earliest software cipher is the Data Encryption Standard by IBM and NSA 1977
+First there are a base and a modulus
+In asymetric encryption there is a possible way to reverse with a private key
+It is hard to figure out on exponent with only the base and the result
+Making text secret is encryption and reversed its decryption
+One-way fuctions are mathematical operations that are easy one way, but hard to reverse
+RSA is named after its inventors Rivest, Shamir and Adleman
+Sender uses a key to encrypt and the recipient uses the same to decrypt the message
+The most popular asymetric encryption technique now is RSA
+The padlock icon on the website means your computer uses a public key to verify the server
+There are also asymmetric encryptions with a private and public key
+You don't have to send your own key for having the same secret key at the end
+
+
+
+
+Word Cloud:
+s20170616
+
+Defence in death
+Cryptography 
+Cipher
+Ciphertext
+Enchryption
+Dechryption
+German Enigma
+Ceasar Cipher
+Data Encryption Standard
+Diffie-Hellman
+One-way fuction
+public key
+private key
+modulus 
+base
+secret key
+Asymetric Encryption
+RSA
+verify
+reverse
