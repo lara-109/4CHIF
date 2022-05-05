@@ -1,0 +1,25 @@
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\db sqlite.exe.config
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\db sqlite.exe
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\db sqlite.pdb
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\obj\Debug\db sqlite.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\obj\Debug\db sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\obj\Debug\db sqlite.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\obj\Debug\db sqlite.exe
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\obj\Debug\db sqlite.pdb
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\db sqlite\db sqlite\bin\Debug\try.db
