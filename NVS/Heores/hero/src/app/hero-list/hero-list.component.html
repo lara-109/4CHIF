@@ -1,0 +1,9 @@
+<ul>
+  <li *ngFor="let hero of herolist">
+    <button (click)="changeHero(hero)">
+      <span>{{hero.id}}</span>
+      <span>{{hero.name}}</span>
+      <span>{{hero.power}}</span>
+    </button>
+  </li>
+</ul>
