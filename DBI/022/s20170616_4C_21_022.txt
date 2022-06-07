@@ -1,0 +1,25 @@
+Lara Winkler
+s20170616
+
+AES
+AddRoundHey
+Advanced Encryption Standard
+Algebraische
+Designprinzipien
+Encryption
+Geheimtext
+Irreduzible
+Klartext
+Kryptographie
+Matrix
+Primzahl
+Rijndael
+Schlüssel
+Schlüssellänge
+ShiftRow
+Sicherheitspuffer
+SubBytes
+SubKeys
+Subschlüssel
+Verschlüsselung
+Verschlüsselungsgeschwindigkeit
