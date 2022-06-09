@@ -6,3 +6,10 @@ C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\AbstractFactory\AbstractFacto
 C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\laraw\OneDrive\Dokumente\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Lenovo\Documents\GitHub\4CHIF\POS\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
