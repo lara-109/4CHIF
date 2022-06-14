@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "el9gy4xdZE21BSKZmDpZ5wqENHACbZE8EEd9KK0vjj1FDyoS7sg+oGucut8u2Fr/CxZITC4vQD2/vKJVSfuKFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laraw\\OneDrive\\Dokumente\\GitHub\\4CHIF\\POS\\Waldwunder_mit_lukas\\Waldwunder_mit_lukas\\Waldwunder_mit_lukas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laraw\\.nuget\\packages\\microsoft.data.sqlite\\6.0.5\\microsoft.data.sqlite.6.0.5.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\laraw\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
